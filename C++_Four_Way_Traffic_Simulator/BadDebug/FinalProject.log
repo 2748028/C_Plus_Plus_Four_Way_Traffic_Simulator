@@ -1,0 +1,28 @@
+﻿Build started 4/15/2016 3:28:28 PM.
+     1>Project "C:\Users\100580319\Desktop\ObjectOrientedProgramming\Assignments\FinalProject\FinalProject\FinalProject.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): warning MSB8015: Forcing a rebuild of all source files due to the contents of "C:\Users\100580319\Desktop\ObjectOrientedProgramming\Assignments\FinalProject\FinalProject\Debug\FinalProject.tlog\cl.command.1.tlog" being invalid.
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Car.cpp functions.cpp TrafficLight.cpp main.cpp Place.cpp Vehicle.cpp
+         Skipping... (no relevant changes detected)
+         Vehicle.cpp
+         Place.cpp
+         main.cpp
+         TrafficLight.cpp
+         functions.cpp
+         Car.cpp
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppCommon.targets(341,5): warning MSB8015: Forcing a rebuild of all source files due to the contents of "C:\Users\100580319\Desktop\ObjectOrientedProgramming\Assignments\FinalProject\FinalProject\Debug\FinalProject.tlog\cl.command.1.tlog" being invalid.
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\100580319\Desktop\ObjectOrientedProgramming\Assignments\FinalProject\Debug\FinalProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\100580319\Desktop\ObjectOrientedProgramming\Assignments\FinalProject\Debug\FinalProject.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\100580319\Desktop\ObjectOrientedProgramming\Assignments\FinalProject\Debug\FinalProject.lib" /MACHINE:X86 Debug\Car.obj
+         Debug\functions.obj
+         Debug\TrafficLight.obj
+         Debug\main.obj
+         Debug\Place.obj
+         Debug\Vehicle.obj
+     1>FileTracker : error FTK1013: could not find unicode byte order marker in the file tracking log file: C:\Users\100580319\Desktop\ObjectOrientedProgramming\Assignments\FinalProject\FinalProject\Debug\FinalProject.tlog\link.read.1.tlog. The tracking data is invalid.
+         
+     1>FileTracker : error FTK1013: could not find unicode byte order marker in the file tracking log file: C:\Users\100580319\Desktop\ObjectOrientedProgramming\Assignments\FinalProject\FinalProject\Debug\FinalProject.tlog\link.write.1.tlog. The tracking data is invalid.
+         
+     1>Done Building Project "C:\Users\100580319\Desktop\ObjectOrientedProgramming\Assignments\FinalProject\FinalProject\FinalProject.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.71

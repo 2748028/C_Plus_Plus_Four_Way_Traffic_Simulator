@@ -1,0 +1,29 @@
+﻿Build started 3/14/2017 12:47:38 PM.
+     1>Project "C:\Users\Daen\Desktop\FinalProject\FinalProject\FinalProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Place.cpp TrafficLight.cpp Truck.cpp Vehicle.cpp main.cpp
+         main.cpp
+     1>c:\users\daen\desktop\finalproject\finalproject\main.cpp(24): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\daen\desktop\finalproject\finalproject\main.cpp(40): warning C4101: 'x' : unreferenced local variable
+     1>c:\users\daen\desktop\finalproject\finalproject\main.cpp(60): warning C4101: 'x' : unreferenced local variable
+     1>c:\users\daen\desktop\finalproject\finalproject\main.cpp(79): warning C4101: 'x' : unreferenced local variable
+     1>c:\users\daen\desktop\finalproject\finalproject\main.cpp(99): warning C4101: 'x' : unreferenced local variable
+         Vehicle.cpp
+         Truck.cpp
+         TrafficLight.cpp
+         Place.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Daen\Desktop\FinalProject\Debug\FinalProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Daen\Desktop\FinalProject\Debug\FinalProject.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Daen\Desktop\FinalProject\Debug\FinalProject.lib" /MACHINE:X86 Debug\Car.obj
+         Debug\functions.obj
+         Debug\TrafficLight.obj
+         Debug\main.obj
+         Debug\Place.obj
+         Debug\Truck.obj
+         Debug\Vehicle.obj
+         FinalProject.vcxproj -> C:\Users\Daen\Desktop\FinalProject\Debug\FinalProject.exe
+     1>Done Building Project "C:\Users\Daen\Desktop\FinalProject\FinalProject\FinalProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.55
